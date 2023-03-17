@@ -42,11 +42,11 @@ Personuppgiftsansvarig instruerar Personuppgiftsbiträdet att behandla Personupp
 
 ### 2.3
 
-Om överföring som genomförs enligt [punkt 2.2](personuppgiftsbitraedesavtal-foer-gks.md#2.2) är en Tredjelandsöverföring, ska Personuppgiftsbiträdet ange detaljer om land eller territorium till vilket Personuppgifterna ska överföras och ska säkerställa att adekvata säkerhetsåtgärder har implementerats i syfte att följa Dataskyddslagar.
+Om överföring som genomförs enligt [punkt 2.2](dpa-v1.0.md#2.2) är en Tredjelandsöverföring, ska Personuppgiftsbiträdet ange detaljer om land eller territorium till vilket Personuppgifterna ska överföras och ska säkerställa att adekvata säkerhetsåtgärder har implementerats i syfte att följa Dataskyddslagar.
 
 ### 2.4
 
-[Bilaga 1](personuppgiftsbitraedesavtal-foer-gks.md#bilaga-1-behandling-av-personuppgifter) innehåller information om behandling av Personuppgifter under Avtalet.
+[Bilaga 1](dpa-v1.0.md#bilaga-1-behandling-av-personuppgifter) innehåller information om behandling av Personuppgifter under Avtalet.
 
 ## 3. Säkerhet
 
@@ -66,7 +66,7 @@ Personuppgiftsbiträdet ges av den Personuppgiftsansvarige en generell rätt att
 
 ### 4.2
 
-Bilaga 2 inkluderar en lista av Underbiträden (och relevant land för behandling, organisationsnummer, registrerade adress, hemsida och behandlingsaktivitet) som Personuppgiftsbiträdet kommer att anlita vid tidpunkten för undertecknande av PBA. Personuppgiftsbiträdet försäkrar att anlitandet av dessa Underbiträden följer kraven för anlitandet av Underbiträden enligt detta [avsnitt 4](personuppgiftsbitraedesavtal-foer-gks.md#4.-underbitraeden).
+Bilaga 2 inkluderar en lista av Underbiträden (och relevant land för behandling, organisationsnummer, registrerade adress, hemsida och behandlingsaktivitet) som Personuppgiftsbiträdet kommer att anlita vid tidpunkten för undertecknande av PBA. Personuppgiftsbiträdet försäkrar att anlitandet av dessa Underbiträden följer kraven för anlitandet av Underbiträden enligt detta [avsnitt 4](dpa-v1.0.md#4.-underbitraeden).
 
 ### 4.3
 
@@ -74,7 +74,7 @@ Personuppgiftsbiträdet ska informera den Personuppgiftsansvarige, i en skriftli
 
 ### 4.4
 
-Om den Personuppgiftsansvarige på skäliga grunder inte kan acceptera ett nytt Underbiträde med anledning av farhågor angående dataskydd, ska den Personuppgiftsansvarige ha rätt att säga upp Avtalet med omedelbar verkan inom 15 dagar från att ha mottagit information enligt [punkt 4.3](personuppgiftsbitraedesavtal-foer-gks.md#4.3).
+Om den Personuppgiftsansvarige på skäliga grunder inte kan acceptera ett nytt Underbiträde med anledning av farhågor angående dataskydd, ska den Personuppgiftsansvarige ha rätt att säga upp Avtalet med omedelbar verkan inom 15 dagar från att ha mottagit information enligt [punkt 4.3](dpa-v1.0.md#4.3).
 
 ### 4.5
 
