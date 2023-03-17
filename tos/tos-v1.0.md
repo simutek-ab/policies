@@ -12,7 +12,7 @@ Dessa allmänna villkor (”**Villkoren**”) gäller för användning av progra
 
 ### 1.2
 
-GKS tillhandahålls som ”Software as a Service”, vilket innebär att tillgång till GKS ges via någon av SIMUTEKs webbsidor utan att ett exemplar av programmet laddas ner till användarens enhet. Med ”**Kund**” avses den som ingår avtal med SIMUTEK om abonnemang av GKS genom undertecknande av offert eller orderbekräftelse ("**Orderbekräftelse**"). Bestämmelserna i Orderbekräftelsen skall alltid äga företräde framför dessa Villkor. Orderbekräftelsen tillsammans med dessa Villkor, [Personuppgiftsbiträdesavtalet](personuppgiftsbitraedesavtal-foer-gks.md) och eventuellt andra tillämpliga villkor utgör tillsammans ”**Avtalet**”.
+GKS tillhandahålls som ”Software as a Service”, vilket innebär att tillgång till GKS ges via någon av SIMUTEKs webbsidor utan att ett exemplar av programmet laddas ner till användarens enhet. Med ”**Kund**” avses den som ingår avtal med SIMUTEK om abonnemang av GKS genom undertecknande av offert eller orderbekräftelse ("**Orderbekräftelse**"). Bestämmelserna i Orderbekräftelsen skall alltid äga företräde framför dessa Villkor. Orderbekräftelsen tillsammans med dessa Villkor, [Personuppgiftsbiträdesavtalet](../dpa/dpa-v1.0.md) och eventuellt andra tillämpliga villkor utgör tillsammans ”**Avtalet**”.
 
 ### 1.3
 
@@ -26,11 +26,11 @@ Avtalet gäller under den tid som framgår av Orderbekräftelsen (”**Avtalsper
 
 ### 2.2
 
-Uppsägning av Avtalet, oavsett anledning och oavsett vilken part som säger upp Avtalet, ska för att vara giltig vara skriftlig och tillställd den andra parten i enlighet med [avsnitt 11](#11.-meddelanden) nedan.
+Uppsägning av Avtalet, oavsett anledning och oavsett vilken part som säger upp Avtalet, ska för att vara giltig vara skriftlig och tillställd den andra parten i enlighet med [avsnitt 11](tos-v1.0.md#11.-meddelanden) nedan.
 
 ### 2.3
 
-Kunden skall erlägga en avgift för Nyttjanderätten (se vidare [avsnitt 3](#3.-upplatelses-omfattning-och-begraensning)) för den inledande Avtalsperioden och varje eventuell förlängning därav. Avgiftens belopp, exklusive mervärdesskatt, följer av Orderbekräftelsen och förfallodatum samt betalningsinstruktioner följer av separat faktura från SIMUTEK.
+Kunden skall erlägga en avgift för Nyttjanderätten (se vidare [avsnitt 3](tos-v1.0.md#3.-upplatelses-omfattning-och-begraensning)) för den inledande Avtalsperioden och varje eventuell förlängning därav. Avgiftens belopp, exklusive mervärdesskatt, följer av Orderbekräftelsen och förfallodatum samt betalningsinstruktioner följer av separat faktura från SIMUTEK.
 
 ### 2.4
 
@@ -42,7 +42,7 @@ SIMUTEK kan vidare under Avtalsperioden komma att göra andra förändringar av 
 
 ### 2.6
 
-Vid försenad betalning utgår dröjsmålsränta från och med förfallodagen, med en räntesats per månad på 1.5 procentenheter. I händelse av Kundens betalningsdröjsmål äger SIMUTEK rätt att stoppa Kundens tillgång till GKS, och betalningsdröjsmål om mer än 30 dagar ska betraktas som ett väsentligt avtalsbrott vilket ger SIMUTEK rätt att säga upp Avtalet med omedelbar verkan, se vidare [avsnitt 9](#9.-kundens-avtalsbrott-och-ansvar) nedan. SIMUTEKs uppsägning på grund av Kundens betalningsdröjsmål befriar dock inte Kunden från dess betalningsskyldighet.
+Vid försenad betalning utgår dröjsmålsränta från och med förfallodagen, med en räntesats per månad på 1.5 procentenheter. I händelse av Kundens betalningsdröjsmål äger SIMUTEK rätt att stoppa Kundens tillgång till GKS, och betalningsdröjsmål om mer än 30 dagar ska betraktas som ett väsentligt avtalsbrott vilket ger SIMUTEK rätt att säga upp Avtalet med omedelbar verkan, se vidare [avsnitt 9](tos-v1.0.md#9.-kundens-avtalsbrott-och-ansvar) nedan. SIMUTEKs uppsägning på grund av Kundens betalningsdröjsmål befriar dock inte Kunden från dess betalningsskyldighet.
 
 ## 3. Upplåtelses omfattning och begränsning
 
@@ -52,7 +52,7 @@ Genom Avtalet får Kunden en tidsbegränsad och icke-exklusiv nyttjanderätt til
 
 ### 3.2
 
-Nyttjanderätten gäller under Avtalsperioden under förutsättning att Kunden fullgör dess betalningsskyldighet enligt [avsnitt 2](#2.-avtalsperiod-och-pris) ovan.
+Nyttjanderätten gäller under Avtalsperioden under förutsättning att Kunden fullgör dess betalningsskyldighet enligt [avsnitt 2](tos-v1.0.md#2.-avtalsperiod-och-pris) ovan.
 
 ### 3.3
 
@@ -74,7 +74,7 @@ Kunden får inte till tredje part upplåta eller överlåta Nyttjanderätten, el
 
 ### 4.3
 
-Kunden är ansvarig för att alla som använder GKS genom Kundens konto agerar i enlighet med Avtalet, inklusive men inte begränsat till detta [avsnitt 4](#4.-foerbud-mot-kopiering-och-oeverlatelse-mm.).
+Kunden är ansvarig för att alla som använder GKS genom Kundens konto agerar i enlighet med Avtalet, inklusive men inte begränsat till detta [avsnitt 4](tos-v1.0.md#4.-foerbud-mot-kopiering-och-oeverlatelse-mm.).
 
 ## 5. Kundens data mm.
 
@@ -88,7 +88,7 @@ Kunden ansvarar för att Kundens Data inte är behäftat med virus eller på ann
 
 ### 5.3
 
-Kunden ansvarar för att Kundens Data inte gör intrång i tredje parts immateriella rättigheter. Kunden garanterar vidare att skydda SIMUTEK mot alla eventuella anspråk framställda mot SIMUTEK på grund av Kundens Data, samt att hålla SIMUTEK skadeslös för tredje parts anspråk som grundar sig i Kundens brott mot detta [avsnitt 5](#5.-kundens-data-mm.).
+Kunden ansvarar för att Kundens Data inte gör intrång i tredje parts immateriella rättigheter. Kunden garanterar vidare att skydda SIMUTEK mot alla eventuella anspråk framställda mot SIMUTEK på grund av Kundens Data, samt att hålla SIMUTEK skadeslös för tredje parts anspråk som grundar sig i Kundens brott mot detta [avsnitt 5](tos-v1.0.md#5.-kundens-data-mm.).
 
 ### 5.4
 
@@ -106,7 +106,7 @@ Om Kunden upptäcker fel i GKS ska Kunden utan dröjsmål reklamera felet till S
 
 ### 6.2
 
-För underhåll och uppdateringar kan SIMUTEK behöva tillfälligt avbryta Kundens tillgång till GKS eller delar därav. Om Kunden på grund av sådant driftsavbrott inte kan använda GKS är Kundens rätt till åtgärd, kompensation eller annan rätt till ersättning för skada begränsad till vad som följer enligt nedan ([Avsnitt 8](#8.-simuteks-ansvar-och-ansvarsbegraensning) nedan kan inte användas som grund för ersättningsanspråk kopplat till fel och driftsavbrott). Som ersättningsgrundande driftsavbrott räknas dock inte av SIMUTEK planerade driftsavbrott som aviserats i skälig tid i förväg, och inte heller driftsavbrott som beror på omständigheter utanför SIMUTEKs rimliga kontroll, såsom Kundens webbläsare eller internetanslutning eller andra produkter och tjänster som GKS hos Kunden är kopplat till eller integrerat med.
+För underhåll och uppdateringar kan SIMUTEK behöva tillfälligt avbryta Kundens tillgång till GKS eller delar därav. Om Kunden på grund av sådant driftsavbrott inte kan använda GKS är Kundens rätt till åtgärd, kompensation eller annan rätt till ersättning för skada begränsad till vad som följer enligt nedan ([Avsnitt 8](tos-v1.0.md#8.-simuteks-ansvar-och-ansvarsbegraensning) nedan kan inte användas som grund för ersättningsanspråk kopplat till fel och driftsavbrott). Som ersättningsgrundande driftsavbrott räknas dock inte av SIMUTEK planerade driftsavbrott som aviserats i skälig tid i förväg, och inte heller driftsavbrott som beror på omständigheter utanför SIMUTEKs rimliga kontroll, såsom Kundens webbläsare eller internetanslutning eller andra produkter och tjänster som GKS hos Kunden är kopplat till eller integrerat med.
 
 ### 6.3
 
@@ -124,7 +124,7 @@ För att rätten enligt ovan inte ska förfalla, ska en begäran om ersättning 
 
 ### 7.1
 
-SIMUTEK har rätt att när som helst göra sådana förändringar av och tillägg till GKS och/eller Villkoren som SIMUTEK finner lämpligt. Vid förändringar som på ett väsentligt och negativt sätt påverkar Kundens möjlighet att använda GKS, äger Kunden rätt att säga upp Avtalet omedelbart med samma effekt som gäller enligt [punkt 6.4](#6.4).
+SIMUTEK har rätt att när som helst göra sådana förändringar av och tillägg till GKS och/eller Villkoren som SIMUTEK finner lämpligt. Vid förändringar som på ett väsentligt och negativt sätt påverkar Kundens möjlighet att använda GKS, äger Kunden rätt att säga upp Avtalet omedelbart med samma effekt som gäller enligt [punkt 6.4](tos-v1.0.md#6.4).
 
 ### 7.2
 
@@ -134,15 +134,15 @@ Väsentliga förändringar i GKS ska Kunden informeras om på lämpligt sätt se
 
 ### 8.1
 
-SIMUTEK ansvarar för att Kundens användning av GKS inte gör intrång i tredje parts immateriella rättigheter. SIMUTEK åtar sig att hålla Kunden skadeslös avseende krav från tredje part som grundas på att Kundens användning av GKS gör intrång i sådan tredje parts immateriella rättigheter. SIMUTEKs ansvar enligt denna [punkt 8.1](#8.1) förutsätter dock att Kunden använt GKS endast i enlighet med samtliga bestämmelser som följer av Avtalet, och att Kundens skada uppstår till följd av laga kraft vunnen dom eller en av SIMUTEK skriftligen godkänd förlikning.
+SIMUTEK ansvarar för att Kundens användning av GKS inte gör intrång i tredje parts immateriella rättigheter. SIMUTEK åtar sig att hålla Kunden skadeslös avseende krav från tredje part som grundas på att Kundens användning av GKS gör intrång i sådan tredje parts immateriella rättigheter. SIMUTEKs ansvar enligt denna [punkt 8.1](tos-v1.0.md#8.1) förutsätter dock att Kunden använt GKS endast i enlighet med samtliga bestämmelser som följer av Avtalet, och att Kundens skada uppstår till följd av laga kraft vunnen dom eller en av SIMUTEK skriftligen godkänd förlikning.
 
 ### 8.2
 
-SIMUTEKs ansvar enligt [punkt 8.1](#8.1) förutsätter vidare att (i) Kunden utan dröjsmål skriftligen underrättar SIMUTEK om de intrångskrav som riktas mot Kunden, (ii) SIMUTEK ges full rätt att ensam besluta hur rättsprocessen ska bedrivas, och att (iii) Kunden agerar i enlighet med SIMUTEKs instruktioner och på egen bekostnad ger SIMUTEK den skäliga assistans som SIMUTEK begär. Kunden ska vidare framställa skadeståndsanspråk mot SIMUTEK senast 3 månader efter att Kunden märkt eller borde ha märkt grunden för kravet, dock alltid senast 6 månader från det att skada uppstått.
+SIMUTEKs ansvar enligt [punkt 8.1](tos-v1.0.md#8.1) förutsätter vidare att (i) Kunden utan dröjsmål skriftligen underrättar SIMUTEK om de intrångskrav som riktas mot Kunden, (ii) SIMUTEK ges full rätt att ensam besluta hur rättsprocessen ska bedrivas, och att (iii) Kunden agerar i enlighet med SIMUTEKs instruktioner och på egen bekostnad ger SIMUTEK den skäliga assistans som SIMUTEK begär. Kunden ska vidare framställa skadeståndsanspråk mot SIMUTEK senast 3 månader efter att Kunden märkt eller borde ha märkt grunden för kravet, dock alltid senast 6 månader från det att skada uppstått.
 
 ### 8.3
 
-SIMUTEKs ansvar hänförligt till GKS är begränsat till vad som stadgas i detta [avsnitt 8](#8.-simuteks-ansvar-och-ansvarsbegraensning). I tillägg till vad som följer av punkterna ovan i detta avsnitt, är SIMUTEKs totala ansvar för direkta skador begränsat till 15% av vad Kunden betalat för GKS hänförligt till närmast föregående 12-månadersperiod (och om avtalstiden bakåt är kortare än 12 månader, ska SIMUTEKS ansvar för direkta skador vara begränsat till 15% av det genomsnittliga månatliga värdet som Kunden betalat för multiplicerat med 12). Under inga omständigheter ansvarar SIMUTEK för några indirekta skador, förluster eller kostnader hänförliga till användandet av GKS eller Kundens Data. SIMUTEK ansvarar inte heller för några indirekta skador, förluster eller kostnader hänförliga till det förhållandet att GKS inte har kunnat användas av någon anledning.
+SIMUTEKs ansvar hänförligt till GKS är begränsat till vad som stadgas i detta [avsnitt 8](tos-v1.0.md#8.-simuteks-ansvar-och-ansvarsbegraensning). I tillägg till vad som följer av punkterna ovan i detta avsnitt, är SIMUTEKs totala ansvar för direkta skador begränsat till 15% av vad Kunden betalat för GKS hänförligt till närmast föregående 12-månadersperiod (och om avtalstiden bakåt är kortare än 12 månader, ska SIMUTEKS ansvar för direkta skador vara begränsat till 15% av det genomsnittliga månatliga värdet som Kunden betalat för multiplicerat med 12). Under inga omständigheter ansvarar SIMUTEK för några indirekta skador, förluster eller kostnader hänförliga till användandet av GKS eller Kundens Data. SIMUTEK ansvarar inte heller för några indirekta skador, förluster eller kostnader hänförliga till det förhållandet att GKS inte har kunnat användas av någon anledning.
 
 ## 9. Kundens avtalsbrott och ansvar
 
@@ -170,7 +170,7 @@ inte (och ska inte låta någon tredje part) använda sådan Konfidentiell Infor
 
 #### 10.1.2
 
-inte på något sätt bekräfta, förneka eller avslöja till någon tredje part, kopiera eller använda Konfidentiell Information på annat sätt är som uttryckligen följer av [punkt 10.2](#10.2);
+inte på något sätt bekräfta, förneka eller avslöja till någon tredje part, kopiera eller använda Konfidentiell Information på annat sätt är som uttryckligen följer av [punkt 10.2](tos-v1.0.md#10.2);
 
 #### 10.1.3
 
@@ -210,11 +210,11 @@ Om part förhindras att fullgöra sina förpliktelser av omständighet utanför 
 
 ### 12.2
 
-Den part som blir varse om att omständighet enligt [punkt 12.1](#12.1) föreligger ska meddela den andra parten detta utan dröjsmål.
+Den part som blir varse om att omständighet enligt [punkt 12.1](tos-v1.0.md#12.1) föreligger ska meddela den andra parten detta utan dröjsmål.
 
 ### 12.3
 
-Om part förhindras fullgöra avtalet till väsentlig del under längre tid än 3 månader på grund av omständighet enligt [punkt 12.1](#12.1), har den andra parten rätt att säga upp Avtalet.
+Om part förhindras fullgöra avtalet till väsentlig del under längre tid än 3 månader på grund av omständighet enligt [punkt 12.1](tos-v1.0.md#12.1), har den andra parten rätt att säga upp Avtalet.
 
 ## 13. Övrigt
 
