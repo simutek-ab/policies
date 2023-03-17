@@ -8,7 +8,7 @@
 
 ### 1.1
 
-Detta personuppgiftsbiträdesavtal (”**PBA**”) utgör del av Avtalet, såsom det definieras i SIMUTEKs [Allmänna villkor för GKS](<README (1).md>), mellan Kunden (i egenskap av ”**Personuppgiftsansvarig**”) och SIMUTEK (i egenskap av ”**Personuppgiftsbiträde**”) och avser hanteringen av Personuppgifter.
+Detta personuppgiftsbiträdesavtal (”**PBA**”) utgör del av Avtalet, såsom det definieras i SIMUTEKs [Allmänna villkor för GKS](../tos/tos-v1.0.md), mellan Kunden (i egenskap av ”**Personuppgiftsansvarig**”) och SIMUTEK (i egenskap av ”**Personuppgiftsbiträde**”) och avser hanteringen av Personuppgifter.
 
 ### 1.2
 
