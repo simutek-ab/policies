@@ -16,7 +16,7 @@ GKS tillhandahålls som ”Software as a Service”, vilket innebär att tillgå
 
 ### 1.3
 
-GKS är ett verktyg som används för att effektivisera order- och kundhantering inom grafisk industri. GKS tillhandahålls i befintligt skick och uppdateras kontinuerligt. SIMUTEK strävar efter att tillhandahålla bästa möjliga produkter och tjänster, men tar inte ansvar för att Kunden uppnår specifika resultat eller utfall. Det är alltid Kunden som ansvarar för och måste avgöra GKS lämplighet för Kundens specifika utmaningar och behov. Vidare är det alltid Kundens ansvar att identifiera, bedöma och efterleva dess lagliga och andra skyldigheter, och Kunden får inte använda GKS på ett sätt som strider mot tillämpliga lagar och regler. Detta Avtal reglerar inte, och SIMUTEK är inte ansvarigt för, eventuella tredjepartslösningar som GKS kan integreras med.
+GKS är ett affärssystem med offert, orderhantering och planering för grafisk industri. GKS tillhandahålls i befintligt skick och uppdateras kontinuerligt. SIMUTEK strävar efter att tillhandahålla bästa möjliga produkter och tjänster, men tar inte ansvar för att Kunden uppnår specifika resultat eller utfall. Det är alltid Kunden som ansvarar för och måste avgöra GKS lämplighet för Kundens specifika utmaningar och behov. Vidare är det alltid Kundens ansvar att identifiera, bedöma och efterleva dess lagliga och andra skyldigheter, och Kunden får inte använda GKS på ett sätt som strider mot tillämpliga lagar och regler. Detta Avtal reglerar inte, och SIMUTEK är inte ansvarigt för, eventuella tredjepartslösningar som GKS kan integreras med.
 
 ## 2. Avtalsperiod och pris
 
