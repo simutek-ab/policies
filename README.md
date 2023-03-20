@@ -1,5 +1,5 @@
 ---
-description: En samling av villkor från Simutek
+description: En samling villkor från Simutek
 ---
 
 # Välkommen till Policies
